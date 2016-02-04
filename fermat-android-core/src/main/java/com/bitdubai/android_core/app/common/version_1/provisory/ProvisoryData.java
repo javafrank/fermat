@@ -147,7 +147,7 @@ public class ProvisoryData {
                 new Version(1, 0, 0));
 
         item1 = new Item(installedSubApp);
-        item1.setIconResource(R.drawable.crypto_customer_community);
+//        item1.setIconResource(R.drawable.crypto_customer_community);
         item1.setPosition(5);
         lstCommunities.add(item1);
 
