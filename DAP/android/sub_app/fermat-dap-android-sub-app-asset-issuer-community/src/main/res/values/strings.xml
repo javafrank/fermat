@@ -54,6 +54,15 @@
     <string name="no_issuers_selected">No Issuers selected to Connect</string>
     <string name="connecting">Connecting please wait...</string>
 
-
+    <string name="dap_issuer_community_empty_conn">No Connections</string>
+    <string name="dao_issuer_community_not_found">Not Found</string>
+    <string name="dap_issuer_community_connection_state">User connection state </string>
+    <string name="dap_issuer_community_disconnect2">Do you want to be disconnected from </string>
+    <string name="dap_issuer_community_disconnect3">Disconnected</string>
+    <string name="dap_issuer_community_disconnection_request">Disconnect</string>
+    <string name="dap_issuer_community_text_disconnect">Do you want to disconnect </string>
+    <string name="dap_issuer_community_description_search">Search...</string>
+    <string name="dap_issuer_community_location_search">Search a Peer</string>
+    <string name="dap_issuer_community_location_search2">Do you want to search an specific peer in the Community?</string>
 
 </resources>
